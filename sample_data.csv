@@ -1,0 +1,34 @@
+Name,Age,Salary,Department,Experience,Performance_Score,City,Has_Degree
+John Doe,25,50000,Engineering,2,85,New York,Yes
+Jane Smith,30,65000,Marketing,5,92,Los Angeles,Yes
+Bob Johnson,35,75000,Engineering,8,88,Chicago,No
+Alice Brown,28,58000,Sales,3,78,Houston,Yes
+Charlie Davis,32,70000,Marketing,6,90,Phoenix,Yes
+Eva Wilson,29,62000,Engineering,4,82,Philadelphia,No
+Frank Miller,31,68000,Sales,7,86,San Antonio,Yes
+Grace Lee,26,55000,Marketing,2,80,San Diego,Yes
+Henry Taylor,34,72000,Engineering,9,94,Dallas,No
+Ivy Chen,27,60000,Sales,3,84,San Jose,Yes
+Jack White,33,69000,Marketing,8,89,Austin,Yes
+Kate Green,30,64000,Engineering,5,87,Jacksonville,No
+Liam Black,29,61000,Sales,4,81,Fort Worth,Yes
+Mia Gray,31,67000,Marketing,6,88,Columbus,Yes
+Noah Blue,28,59000,Engineering,3,83,Charlotte,No
+Olivia Red,32,71000,Sales,7,91,San Francisco,Yes
+Paul Yellow,26,54000,Marketing,2,79,Indianapolis,Yes
+Quinn Orange,35,76000,Engineering,10,95,Seattle,No
+Rachel Purple,30,65000,Sales,5,85,Denver,Yes
+Sam Pink,29,63000,Marketing,4,86,Washington,Yes
+Tom Silver,33,70000,Engineering,8,90,Boston,No
+Uma Gold,27,57000,Sales,3,82,El Paso,Yes
+Victor Cyan,31,68000,Marketing,6,87,Detroit,Yes
+Wendy Magenta,28,60000,Engineering,4,84,Nashville,No
+Xander Lime,34,73000,Sales,9,92,Portland,Yes
+Yara Coral,30,66000,Marketing,5,88,Oklahoma City,Yes
+Zoe Teal,32,69000,Engineering,7,89,Las Vegas,No
+Alice Brown,28,58000,Sales,3,78,Houston,Yes
+John Doe,25,,Engineering,2,85,New York,Yes
+Jane Smith,,65000,Marketing,5,92,Los Angeles,
+Bob Johnson,35,75000,,8,88,Chicago,No
+Charlie Davis,32,70000,Marketing,,90,Phoenix,Yes
+Eva Wilson,29,62000,Engineering,4,,Philadelphia,No
